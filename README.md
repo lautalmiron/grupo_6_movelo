@@ -16,6 +16,7 @@ Fleteros particulares
 Empresas
 Personas particulares
 _
+
 **¿Cómo ajustaremos nuestra oferta a ese público?**
 
 A través de una plataforma interactiva donde los usuarios oferentes puedan monetizar su tiempo y movilidad, y, por otro lado, usuarios que demanden un servicio de logística/mensajería. Ofreceremos un servicio que se adapte a las condiciones de ambos usuarios. Tenemos en cuenta la ubicación, el tiempo, la calidad del servicio brindado y las experiencias entre los usuarios.
